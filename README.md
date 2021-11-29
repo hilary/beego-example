@@ -2,7 +2,7 @@
 
 ## About
 
-A simple (Beego)[https://beego.vip] example to get you started.
+A simple [Beego](https://beego.vip) example to get you started.
 
 ## Configuration
 
