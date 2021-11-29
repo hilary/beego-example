@@ -4,10 +4,11 @@
 
 A simple (Beego)[https://beego.vip] example to get you started.
 
+## Configuration
+
+Set the service port on the service overview page to the `httpport` value
+in `conf/app.conf`.
+
 ## Release / Deploy
 
-Notes: See https://beego.vip/docs/deploy/#releasing-and-deploying for
-what to add as lines in Dockerfile
-
-then `nohup ./<executable> &` to run app
-
+Just use the default Nubo Golang Dockerfile.
